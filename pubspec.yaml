@@ -1,0 +1,7 @@
+name: prefs 
+version: 1.0.0
+description: Read/write app preferences using get_storage
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  get_storage: ^2.0.3
